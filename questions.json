@@ -1,38 +1,110 @@
 [
   {
-    "question": "What type of framework is Next.js?",
+    "question": "Define Subtle.",
     "answerOptions": [
-      { "answer": "Frontend" },
-      { "answer": "Backend" },
-      { "answer": "FullStack", "isCorrect": true },
-      { "answer": "None of the above" }
+      {
+        "answer": "so weak or clumsy as to be difficult to analyze or describe."
+      },
+      {
+        "answer": "so strong or precise as to be easy to analyze or describe."
+      },
+      {
+        "answer": "So delicate or precise as to be difficult to analyze or describe.",
+        "isCorrect": true
+      },
+      {
+        "answer": "so delicate or clumsy as to be easy to analyze or describe."
+      }
     ]
   },
   {
-    "question": "When was Next.js released?",
+    "question": "What is The Part Of Speech of the Word Subtle?",
     "answerOptions": [
-      { "answer": "20 September 2019" },
-      { "answer": "14 January 2017" },
-      { "answer": "25 October 2016", "isCorrect": true },
-      { "answer": "28 March 2018" }
+      {
+        "answer": "Adverb"
+      },
+      {
+        "answer": "Noun"
+      },
+      {
+        "answer": "Adjective",
+        "isCorrect": true
+      },
+      {
+        "answer": "Pronoun"
+      }
     ]
   },
   {
-    "question": "Which CSS Framework are we using?",
+    "question": "",
     "answerOptions": [
-      { "answer": "Bootstrap" },
-      { "answer": "TailwindCSS", "isCorrect": true },
-      { "answer": "Chakra UI" },
-      { "answer": "Bulma CSS" }
+      {
+        "answer": ""
+      },
+      {
+        "answer": "",
+        "isCorrect": true
+      },
+      {
+        "answer": ""
+      },
+      {
+        "answer": ""
+      }
     ]
   },
   {
-    "question": "Which class in Tailwind is used to set flex direction of column?",
+    "question": "",
     "answerOptions": [
-      { "answer": "col" },
-      { "answer": "col-flex" },
-      { "answer": "flex-col", "isCorrect": true },
-      { "answer": "None of the above" }
+      {
+        "answer": ""
+      },
+      {
+        "answer": ""
+      },
+      {
+        "answer": "",
+        "isCorrect": true
+      },
+      {
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question": "",
+    "answerOptions": [
+      {
+        "answer": ""
+      },
+      {
+        "answer": ""
+      },
+      {
+        "answer": "",
+        "isCorrect": true
+      },
+      {
+        "answer": ""
+      }
+    ]
+  },
+  {
+    "question": "",
+    "answerOptions": [
+      {
+        "answer": ""
+      },
+      {
+        "answer": ""
+      },
+      {
+        "answer": "",
+        "isCorrect": true
+      },
+      {
+        "answer": ""
+      }
     ]
   }
 ]

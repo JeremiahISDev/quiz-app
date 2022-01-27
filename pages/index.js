@@ -43,12 +43,15 @@ export default function Home() {
   return (
     <div className="flex flex-col w-screen px-5 h-screen bg-[#1A1A1A] justify-center items-center">
       <Head>
-        <title>Quiz App</title>
+        <title>Miracle Worker Quiz</title>
       </Head>
       {showScore ? (
+        <>
         <h1 className="text-3xl font-semibold text-center text-white">
           You scored {score} out of {questions.length}
         </h1>
+        <a href="javascript:window.location.reload();"><button className="">Retry</button></a>
+        </>
       ) : (
         <>
           <div className="flex flex-col items-start w-full">
