@@ -50,7 +50,7 @@ export default function Home() {
         <h1 className="text-3xl font-semibold text-center text-white">
           You scored {score} out of {questions.length}
         </h1>
-        <a href="javascript:window.location.reload();"><button className="">Retry</button></a>
+        <a href="javascript:window.location.reload();"><button className="w-[49%] py-3 bg-indigo-600 rounded-lg">Retry</button></a>
         </>
       ) : (
         <>
